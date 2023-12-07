@@ -1,6 +1,10 @@
 {
   "packs": [
-    "Bottom.json"
+    "Bottom.json",
+    "Chess.json",
+    "Kirby.json",
+    "Misc.json",
+    "Trans.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
